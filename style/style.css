@@ -1,0 +1,13 @@
+.addpost {
+  margin-bottom: 12px;
+}
+.cancelBtn {
+  margin-left: 5px;
+}
+.material-icons {
+  position: relative;
+  top: 6px;
+}
+.list-group-item {
+  cursor: pointer;
+}
